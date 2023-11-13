@@ -22,5 +22,7 @@ module.exports = {
   rules: {
     'class-methods-use-this': 'off',
     camelcase: 'off',
+    'no-console': 'off',
+    'import/no-extraneous-dependencies': 'off',
   },
 };

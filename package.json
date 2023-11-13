@@ -26,6 +26,9 @@
   "homepage": "https://github.com/lucasm748/node-mongo-crud#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.0.0",
     "sucrase": "^3.34.0"
   },
   "devDependencies": {
